@@ -1,0 +1,4 @@
+* Docker SC3
+- Build image: =bash build.sh=
+- Run container: =bash run.sh=
+
